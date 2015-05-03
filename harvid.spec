@@ -1,12 +1,12 @@
 Summary:	HTTP server to extract, cache and serve still images from movie files
 Name:		harvid
 Version:	0.7.3
-Release:	2
+Release:	3
 Group:		Video
 License:	GPLv2+
 Url:		http://x42.github.com/harvid/
 Source0:	https://github.com/x42/harvid/archive/%{name}-%{version}.tar.gz
-BuildRequires:	ffmpeg-devel
+BuildRequires:	ffmpeg-devel >= 2.5.4
 BuildRequires:	jpeg-devel
 BuildRequires:	pkgconfig(libpng)
 Requires:	ffmpeg
