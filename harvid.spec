@@ -4,7 +4,7 @@ Version:	0.8.3
 Release:	1
 Group:		Video
 License:	GPLv2+
-Url:		http://x42.github.com/harvid/
+Url:		https://x42.github.com/harvid/
 Source0:	https://github.com/x42/harvid/archive/%{name}-%{version}.tar.gz
 BuildRequires:	ffmpeg-devel
 BuildRequires:	jpeg-devel
