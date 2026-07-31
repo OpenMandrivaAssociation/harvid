@@ -1,6 +1,6 @@
 Summary:	HTTP server to extract, cache and serve still images from movie files
 Name:		harvid
-Version:	0.8.3
+Version:	0.9.1
 Release:	1
 Group:		Video
 License:	GPLv2+
