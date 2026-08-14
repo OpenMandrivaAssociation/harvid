@@ -7,6 +7,7 @@ License:	GPLv2+
 Url:		https://x42.github.com/harvid/
 Source0:	https://github.com/x42/harvid/archive/%{name}-%{version}.tar.gz
 BuildRequires:	make
+BuildRequires:	xxd
 BuildRequires:	ffmpeg-devel
 BuildRequires:	jpeg-devel
 BuildRequires:	pkgconfig(libpng)
